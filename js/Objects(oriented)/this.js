@@ -22,4 +22,7 @@ function otherclass() {
     }
     ask.call(myContext, "hello!");
 }
-otherclass();
+otherclass(); 
+
+// kyle hello!
+// kyle hello!
