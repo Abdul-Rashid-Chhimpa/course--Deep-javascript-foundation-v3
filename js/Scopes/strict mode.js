@@ -6,3 +6,4 @@ function otherClass() {
     console.log("Wrlcome!");
 }
 otherClass();
+// lexical scopes
