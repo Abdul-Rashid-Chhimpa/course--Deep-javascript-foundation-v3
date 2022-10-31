@@ -12,3 +12,4 @@ function ask() {
 otherClass();
 ask();
 console.log(teacher);
+// lexical scopes
