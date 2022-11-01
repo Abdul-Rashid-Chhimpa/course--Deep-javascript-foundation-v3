@@ -23,3 +23,4 @@ var stu = (function getstu() {
         return "kyle";
     }
 })();
+//IIFE(immediately invoked function expression) 
