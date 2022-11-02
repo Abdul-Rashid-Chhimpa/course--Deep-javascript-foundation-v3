@@ -9,3 +9,4 @@ function otherclass() {
     ask("why?");
 }
 otherclass();
+//dynamic scopes
