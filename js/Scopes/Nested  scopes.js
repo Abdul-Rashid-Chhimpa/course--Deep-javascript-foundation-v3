@@ -1,4 +1,4 @@
-var teacher = "abdul";
+Bhaivar teacher = "abdul";
 
 function otherClass() {
     var teacher = "Suzy";
@@ -10,3 +10,4 @@ function otherClass() {
 }
 otherClass();
 //ask("????");
+//Nested scopes
